@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="RunManager" selected="JUnit.WsmsapiApplicationTests.contextLoads">
+    <configuration name="WsmsapiApplication" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.wsms.api.WsmsapiApplication" />
+      <module name="wsmsapi" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.wsms.api.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="WsmsapiApplicationTests.contextLoads" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="wsmsapi" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.wsms.api.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.wsms.api" />
+      <option name="MAIN_CLASS_NAME" value="com.wsms.api.WsmsapiApplicationTests" />
+      <option name="METHOD_NAME" value="contextLoads" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="WsmsapiApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" nameIsGenerated="true">
+      <option name="FRAME_DEACTIVATION_UPDATE_POLICY" value="UpdateClassesAndResources" />
+      <module name="wsmsapi" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.wsms.api.WsmsapiApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.WsmsapiApplicationTests.contextLoads" />
+        <item itemvalue="Application.WsmsapiApplication" />
+      </list>
+    </recent_temporary>
+  </component>
+</project>
